@@ -9,7 +9,7 @@ A simple Python application that functions as a countdown timer and stopwatch us
 - Background image for a visually appealing interface
 
 ## Screenshot
-![Python App Interface](assets/PythonInterface.png)
+![Python App Interface](assets/Pythoninterface.png)
 
 ## Technologies Used
 - Python 3
