@@ -7,7 +7,7 @@ root = Tk()
 root.geometry("350x300")
 root.title("Time Counter & Stopwatch")
 
-image = Image.open("image.jpg")  # Replace "your_image.jpg" with your image file path
+image = Image.open("assets/image.jpg")  
 image = image.resize((350, 300))
 img = ImageTk.PhotoImage(image)
 
